@@ -5,7 +5,8 @@ This a Social media desktop application where users can post codes,comment on po
 <img width="98" alt="codegram-logo1" src="https://github.com/Abbilaash/CodeGram/assets/78356376/b9b3a030-1233-45f2-a2c9-a9a2e8c08b38.png">
 
 Login and SignUp Feature
-<img width="960" alt="image" src="https://github.com/Abbilaash/CodeGram/assets/78356376/0913875b-5f56-475c-8017-af604de7775d">
+<img width="941" alt="image" src="https://github.com/Abbilaash/CodeGram/assets/78356376/882b5190-6fef-4867-9cb3-b6c2635e75bc">
+
 
 Posting and commenting
 <img width="960" alt="image" src="https://github.com/Abbilaash/CodeGram/assets/78356376/8fa08d3b-103d-4b3e-8014-1dc03108909b">
