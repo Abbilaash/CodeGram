@@ -7,18 +7,18 @@ This a Social media desktop application where users can post codes,comment on po
 Login and SignUp Feature
 <img width="941" alt="image" src="https://github.com/Abbilaash/CodeGram/assets/78356376/882b5190-6fef-4867-9cb3-b6c2635e75bc">
 
-
 Posting and commenting
-<img width="960" alt="image" src="https://github.com/Abbilaash/CodeGram/assets/78356376/8fa08d3b-103d-4b3e-8014-1dc03108909b">
+<img width="941" alt="image" src="https://github.com/Abbilaash/CodeGram/assets/78356376/b6a30785-412c-4304-8a5c-7c9bf422cc2b">
 
 Following and unfollowing feature
-<img width="960" alt="image" src="https://github.com/Abbilaash/CodeGram/assets/78356376/7957e238-cff1-4473-a102-ad4e94bda180">
+<img width="941" alt="image" src="https://github.com/Abbilaash/CodeGram/assets/78356376/73182e17-050a-44d0-9ed1-f3054c56ca2b">
 
 Global user exploring feature
-<img width="960" alt="image" src="https://github.com/Abbilaash/CodeGram/assets/78356376/e833aafa-cd48-4bb7-80ed-e0d9143f8d2d">
+<img width="939" alt="image" src="https://github.com/Abbilaash/CodeGram/assets/78356376/9f67eac4-3d97-445c-a327-da3a889474ca">
 
 Texting Feature
-<img width="934" alt="Screenshot 2023-05-29 230443" src="https://github.com/Abbilaash/CodeGram/assets/78356376/c257c8c7-a020-4a05-8e1e-2aac95e3b254">
+<img width="940" alt="image" src="https://github.com/Abbilaash/CodeGram/assets/78356376/5e35eb36-a9ec-4d91-ae47-0b90ebd4a6dd">
+
 
 
 
